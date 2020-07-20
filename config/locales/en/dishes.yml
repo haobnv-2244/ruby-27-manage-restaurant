@@ -7,6 +7,7 @@ en:
     price: "Price"
     image: "Image"
     update_success: "Update success"
+    edit_title: "Edit"
   image:
     add_a_image: "Add a image"
     delete: "Delete"

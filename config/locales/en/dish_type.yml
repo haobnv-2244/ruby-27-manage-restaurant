@@ -18,6 +18,8 @@ en:
     action: "Action"
     category: "Category"
     category_title: "Category"
+    edit_title: "Edit"
+    new_title: "New"
     category:
       edit:
         button: "Update"

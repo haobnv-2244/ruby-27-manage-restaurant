@@ -1,4 +1,4 @@
-<%= form_for :session, url: admin_root_path do |f| %>
+<%= form_for :session, url: admin_login_path do |f| %>
   <div class="form-group">
     <%= f.label :email, t("admin.email"), class: "small mb-1" %>
     <%= f.email_field :email, class: "form-control py-4" %>

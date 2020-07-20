@@ -7,6 +7,8 @@ vi:
     price: "Giá"
     image: "Hình ảnh"
     update_success: "Cập nhật thành công"
+    update_error: "Cập nhật lỗi"
+    edit_title: "Chỉnh sửa món ăn"
   image:
     image_type: "File bạn muốn tải lên không đúng định dạng!"
     add_a_image: "Thêm ảnh"
